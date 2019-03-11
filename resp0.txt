@@ -1,0 +1,16 @@
+ 1  git clone https://github.com/IIC2115/Syllabus
+    2  git clone https://github.com/bombanex/L0
+    3  git add
+    4  git add
+    5  git add.
+    6  git add .
+    7  git add *
+    8  git commit -m "update"
+    9  git config --global user.email "dbulnes1@uc.cl"
+   10  git push
+   11  git pull
+   12  doskey/History
+   13  History
+   14  doskey /History
+   15  doskey /History
+   16  history
